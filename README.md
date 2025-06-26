@@ -43,6 +43,7 @@
    ```bash
    npx ts-node .\src\fetchandupdate.ts
    ```
+![image](https://github.com/user-attachments/assets/5d3dd9d5-9e11-4d7c-a504-4e2ed208a604)
 
 
 
